@@ -1,0 +1,5 @@
+npm i prisma -D
+npx prisma init
+Rodar toda vez que houver uma mudança no esquema do banco:
+    *npx prisma migrate dev
+npx prisma studio
